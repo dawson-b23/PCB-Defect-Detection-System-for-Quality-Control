@@ -1,0 +1,8 @@
+cff-version: 1.2.0
+message: "If you use this project, please cite it as below."
+authors:
+  - family-names: "Burgess"
+    given-names: "Dawson"
+title: "PCB Defect Detection System for Quality Control"
+version: 1.0
+date-released: 2025-02-26
